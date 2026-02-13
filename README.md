@@ -51,6 +51,9 @@ Before/After latency test
 
 🧠 Memory Optimization
 
+<img width="1202" height="832" alt="2" src="https://github.com/user-attachments/assets/b925ee84-62df-4ec7-9aa6-b2cbf4e574ef" />
+
+
 Disable SysMain (Superfetch)
 
 Optional Windows Search disable
@@ -72,6 +75,9 @@ Disable Game DVR
 Temporarily stop update services
 
 🔥 Windows Performance Tweaks
+
+<img width="1202" height="833" alt="3" src="https://github.com/user-attachments/assets/8aa9ff82-18d9-4338-b743-adbb9b10d1f3" />
+
 
 Enable Ultimate Performance power plan
 
