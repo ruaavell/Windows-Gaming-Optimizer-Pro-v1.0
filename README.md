@@ -25,6 +25,9 @@ Only real Windows-level optimizations.
 ⚙️ Features
 🌐 Network Optimization
 
+<img width="1204" height="833" alt="4" src="https://github.com/user-attachments/assets/d175a978-226b-4d9e-85fe-6fafa57eb390" />
+
+
 Disable Interrupt Moderation
 
 Disable Energy Efficient Ethernet
